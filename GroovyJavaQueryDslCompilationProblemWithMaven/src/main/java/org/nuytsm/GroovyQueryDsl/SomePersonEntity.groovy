@@ -12,5 +12,6 @@ class SomePersonEntity {
 	String name
 	@Basic
 	int age
+	
 
 }
