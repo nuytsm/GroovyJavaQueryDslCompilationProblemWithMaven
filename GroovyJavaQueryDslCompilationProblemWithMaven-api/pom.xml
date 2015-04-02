@@ -9,7 +9,7 @@
     </parent>
 	<groupId>org.nuytsm</groupId>
 	<artifactId>GroovyJavaQueryDslCompilationProblemWithMaven-api</artifactId>
-	<version>0.0.0-SNAPSHOT</version>
+	<version>1.0.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	
 	<properties>
