@@ -1,6 +1,5 @@
 package org.nuytsm.GroovyQueryDsl;
 
-import org.nuytsm.GroovyQueryDsl.QSomePersonEntity;
 
 public class UseQClassInJava {
 	

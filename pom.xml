@@ -147,6 +147,7 @@
 						</goals>
 						<configuration>
 							<targetFolder>target/generated-sources/java/</targetFolder>
+							<!-- <sourceFolder>target/generated-sources/java/</sourceFolder> -->
 							<packages>
 								<package>org.nuytsm</package>
 							</packages>
@@ -155,7 +156,7 @@
 							</options>
 						</configuration>
 					</execution>
-					<execution>
+					<!-- <execution>
 						<id>1</id>
 						<goals>
 							<goal>compile</goal>
@@ -163,7 +164,7 @@
 						<configuration>
 							<sourceFolder>target/generated-sources/java/</sourceFolder>
 						</configuration>
-					</execution>
+					</execution> -->
 				</executions>
 			</plugin>
 		</plugins>
